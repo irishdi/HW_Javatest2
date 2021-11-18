@@ -1,4 +1,4 @@
-package Lesson_9.HW;
+package Lesson_9_HW;
 
 public class Course {
     private final String courseName;

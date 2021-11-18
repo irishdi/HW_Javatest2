@@ -1,4 +1,4 @@
-package Lesson_9.HW;
+package Lesson_9_HW;
 
 import java.util.*;
 import java.util.stream.Collectors;
